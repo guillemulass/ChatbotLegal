@@ -1,0 +1,12 @@
+python-dotenv
+openai
+langchain
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-text-splitters
+langchain-community
+gradio
+sentence-transformers
+chromadb
+
