@@ -36,8 +36,10 @@ pip install -r requirements.txt
 ### 3. Configurar las credenciales
 Crear un archivo `.env` en la raíz del proyecto con las siguientes variables:
 ```env
-OPENROUTER_API_KEY=tu_api_key\OPENROUTER_BASE_URL=tu_base_url
+OPENROUTER_API_KEY=tu_api_key
+OPENROUTER_BASE_URL=https://openrouter.helicone.ai/api/v1
 HELICONE_API_KEY=tu_api_key
+TAVILY_API_KEY=tu_api_key
 ```
 
 ### 4. Ejecutar el chatbot
